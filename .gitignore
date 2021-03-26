@@ -1,3 +1,4 @@
 resurrect/tmux_resurrect_*.txt
 resurrect/last
 .DS_Store
+plugins/**
